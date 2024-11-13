@@ -165,3 +165,40 @@ Canaux informels
 Réunion de suivi
 Echange d'expérience 
 Clubs utilisateurs
+
+Indicateur Clé (KPI)
+
+Planning
+Ecart prévu ou réalisé
+Chemin critique
+Niveau de charge de l'équipe
+
+Qualité 
+Nombre d'anomalie 
+Temps de traitement
+Balance âgée 
+
+Roadmap
+Périmètre fonctionnel
+Respect architecture
+Jalon clés
+
+Finances
+Business case
+BUDGET
+Investissement
+
+Equipe
+Niveau sous-traitance
+
+La base de connaissances 
+
+Objectif 
+Capitalisation d'expérience
+Documentation
+Réutilisation
+
+Classes de risques 
+
+Matrice de classification
+
