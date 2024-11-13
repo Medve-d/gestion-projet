@@ -87,3 +87,81 @@ modèle cascade
 
 
 Modème en V
+
+Le modèle d'analyse 
+
+le principe de modélisation 
+
+le modèle Merise 
+
+Le modèle UML
+
+Le principe de modélisation 
+
+Abstraction
+
+Instanciation
+
+Vérification
+
+Le dictionnaire de termes
+
+Inventaire
+
+Modélisation
+
+Vérification
+
+Modèle merise :
+
+-
+-
+-
+
+Modèle UML :
+
+-Délimination du système    
+-Formalisation  
+-Transformation technique
+
+
+Comparaison UML vs Merise
+
+Merise :
+-Très structuré 
+-orienté données
+-Démarche deterministe
+-Adapté aux bases relationnelles
+
+
+UML:
+-PLus flexible  
+-Orienté objet
+-Multiple variante possibles
+-Couvre techno hétérogènes
+
+Conclusion:
+
+L'importance de la modélisation approprié 
+Adaptation selon le contexte 
+Complémentarité des approches
+Nécéssité de vérification continue
+
+Pilotage d'un projet !
+
+le comité de pilotage
+
+Les sources d'informations
+
+Canaux formels
+
+Etat d'anomalie
+Etat de charge
+Remontée utilisateurs
+Planning
+
+Canaux informels
+
+Réunion de suivi
+Echange d'expérience 
+Clubs utilisateurs
