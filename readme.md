@@ -63,9 +63,11 @@ Des profils d'utilisateurs et restrictions de chacun
 Des abonnements
 
 Les fonctionnalités à ajouter :
-
+Faire un système de fidélité 
+faire application mobile
+système de notes et avis
+recherche avancée ((Si possible))
+mettre en place un emploi du temps (agenda)
+géolocalisation
 Fonctionnalité à enlever :
-Enlever la vidéo qui tourne en boucle sur la page d'accueil
-
-
-
+Enlever la vidéo qui tourne en boucle sur la page d'accueil ou faire des transitions quelque chose de + agréable
