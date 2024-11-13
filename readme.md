@@ -71,3 +71,19 @@ mettre en place un emploi du temps (agenda)
 géolocalisation
 Fonctionnalité à enlever :
 Enlever la vidéo qui tourne en boucle sur la page d'accueil ou faire des transitions quelque chose de + agréable
+
+
+Nous devons dans le budget comprendre les frais de développent, du cloud, facturer également la maintenance 
+
+Role chef de projet et point clés (à lire dans la doc du cours)
+
+Avoir un logiciel afin de piloter le projet, teamspeak discord et autres afin de :
+
+S'organiser
+Gagner du temps
+Connaitre l'avancement du projet en temps réel
+
+modèle cascade 
+
+
+Modème en V
