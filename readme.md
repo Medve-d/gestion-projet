@@ -202,3 +202,33 @@ Classes de risques
 
 Matrice de classification
 
+Le modèle en cascade 
+(Waterfall)
+
+La métaphore de la cascade 
+°Comme un cours d'eau 
+°Progression naturelle vers l'aval
+°Retour en arrière très couteux
+°règle des couts :
+Modif =Budget x 10 
+
+Expression de besoins et cahiers des charges 
+
+Contexte et objectif stratégiques 
+Objet et perimètre du projet
+Domaine métier
+Périmètre fonctionnel
+Critères de qualité
+Conditions opérationnelles
+Méthodologie
+Planning et aspects financiers
+Responsabilité et garanties
+
+Référentiel de spécifications
+
+Dossier d'intégration fonctionnelles 
+
+acteurs
+étapes des processus 
+condition de déclenchement 
+Résultat attendus 
