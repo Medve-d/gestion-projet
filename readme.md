@@ -232,3 +232,17 @@ acteurs
 étapes des processus 
 condition de déclenchement 
 Résultat attendus 
+
+Dossier d'intégration
+
+Architecture applicative 
+interfaces techniques
+Procédure d'exploitation
+
+Banc d'essai :
+
+Test de charge
+tests de performance
+test de stress
+test d'endurance
+test aux limite
