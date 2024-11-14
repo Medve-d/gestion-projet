@@ -246,3 +246,37 @@ tests de performance
 test de stress
 test d'endurance
 test aux limite
+
+Gestion des version 
+
+Production des veersion
+Numérotation ("Majeur"."mineur")
+Releases notes
+Change log
+procédure d'installation
+
+Livraison continue
+
+Intégration continue
+Déploiement automatisé 
+Test fréquents
+
+4 Principe fondamentaux
+
+Stratégie des petits pas 
+
+-Itération courtes
+-Réévauation périodique
+-Adaptation continue
+
+Fail FAST & Quick WIN
+
+-Encourager l'expériementation
+-apprendre rapidement des erreurs
+-Valider rapidement les hypothèques
+
+Implication client
+
+-Client au coeur 
+-Feedback constant
+-Alignement avec les besoin business
