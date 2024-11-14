@@ -340,3 +340,53 @@ Technical Stories (TS)
 Epics et features
 Story mapping
 Gestions des bug
+
+Les cérémonies Scrum 
+
+Réunion essentielles
+
+Sprint planning 
+Selevtion des US
+Planification du sprint
+
+Organisation Kanban
+
+Tableau Kanban
+
+Colonne de workflow
+Limite WIP Work in Progress
+Capacité par processus
+
+6. Comparaison Scrum vs Kanban
+
+Tableau du cours 
+
+7. Métrique et performance
+
+Scrum
+Vélocité d'équipe
+
+8. Facteur de succès 
+
+Scrum
+Respect des cérémonies
+Engagement de l'équipe
+Rôle Actif du Scrum Master
+Backlog bien maintenu
+Communication efficace
+
+Pour kanban
+Visualisation claire
+Limite WIP respectées
+Flux optimisé
+Amélioration continue
+Automatisation process
+
+Points clés à retenir
+
+Choix de la méthode
+Scrum : pour projet structuré en cycles
+kanban : Pour flux continu et adaptation rapide
+Hybridation possible selon contexte
+Focus sur la valeur client
+Amélioration continue essentielle
