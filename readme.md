@@ -303,3 +303,40 @@ Focus sur l'expérience utilisateur
 Prototypage rapide
 principe KISS
 Design itératif
+
+6 Delivery Management 
+
+Role du delivery manager
+
+-Automatisation des processus
+-Coordination des équipes 
+-Résolution des blocages
+-Faciliation du déploiement
+
+Caractéristique
+
+-Circuit unique de déploiement
+-intégration continue 
+-Livraison continue
+-DevOps
+
+7. Facteur de succès
+
+#Méthodologie Agile
+
+1. La méthodologie Scrum
+
+Principes fondamenteaux
+
+Cycles courts
+Développent incrémental
+Livraison progressive
+Approche holistique
+
+Le Backlog
+
+User stories (US)
+Technical Stories (TS)
+Epics et features
+Story mapping
+Gestions des bug
