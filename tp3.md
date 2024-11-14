@@ -26,6 +26,6 @@ Risques organisationnels :
 
 Risques techniques :
 
-Risques fonctionnels : 
+Risques fonctionnels : la faible compatibilité de l'application pour les système de Conseil PLus
 
 Risques stratégiques : le dépassement du telos à cause de la phase de test

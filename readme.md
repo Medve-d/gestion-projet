@@ -280,3 +280,26 @@ Implication client
 -Client au coeur 
 -Feedback constant
 -Alignement avec les besoin business
+
+5. Nouveaux rôles
+
+Product Manager/Owner
+
+Maximisation de la valeur business
+Vision produit
+Interface avec le client
+Priorisation des besoins
+
+Scrum master
+
+Facilitateur
+Suppression des obstacles
+Coach d'équipe
+Garant de la méthode
+
+Product designer
+
+Focus sur l'expérience utilisateur
+Prototypage rapide
+principe KISS
+Design itératif
